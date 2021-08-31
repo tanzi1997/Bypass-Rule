@@ -1,4 +1,5 @@
 DomainRule:
+  - icon: https://www.baidu.com
   - "*.t.me"
   - "*.tx.me"
   - "*.tdesktop.com"

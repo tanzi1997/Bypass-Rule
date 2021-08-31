@@ -1,4 +1,5 @@
 DomainRule:
+  - icon: https://www.baidu.com
   - "*.aaplimg.com"
   - "*.apple.co"
   - "*.apple.com"

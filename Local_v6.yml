@@ -1,4 +1,5 @@
 DomainRule:
+  - icon: https://www.baidu.com
   - ::/128
   - ::1/128
   - ::ffff:0:0/96
